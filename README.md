@@ -15,3 +15,4 @@ Python | Pandas | Scikit-learn | Streamlit | GitHub
 1. Clone the repo:
 ```bash
 git clone https://github.com/Atabo77/customer_churn.git
+live app: https://atabo77-customer-churn-app-ztnww6.streamlit.app/
